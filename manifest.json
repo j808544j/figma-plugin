@@ -1,0 +1,11 @@
+{
+  "name": "first",
+  "id": "1227111292276680962",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
